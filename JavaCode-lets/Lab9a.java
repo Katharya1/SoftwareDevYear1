@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  * Purpose: 
- * @author Norbert Jez
+ * @author 
  * Student Number: 
  * Date: 18/09/2025
  */
